@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SilkScreeenLogo)(type KiCad)(uri C:/Users/Tsafas/Documents/Kicad/STM32F4_devboard/SilkScreeenLogo.pretty)(options "")(descr ""))
+)
